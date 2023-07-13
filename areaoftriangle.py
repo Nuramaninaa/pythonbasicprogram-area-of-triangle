@@ -3,7 +3,7 @@
 #initialize value of base
 base = input("Enter value of base : ")
 
-#initialize valuecof height
+#initialize value of height
 height = input("Enter value of height : ")
 
 #formula area of triangle
